@@ -1,0 +1,71 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.8.0
+  http://backwpup.com
+  Blog Name: 完全版マハーバーラタ -模写-
+  Blog URL: https://mahabharata.sawa-yan.com
+  Generated on: 2020-11-10 12:20.50
+------------------------------------------------------------
+
+
+すべてのプラグインの情報:
+------------------------------
+Akismet Anti-Spam (v.4.1.5) 作者: Automattic
+	https://akismet.com/
+All-in-One WP Migration (v.7.29) 作者: ServMask
+	https://servmask.com/
+All In One SEO Pack (v.3.7.1) 作者: All in One SEO Team
+	https://semperplugins.com/all-in-one-seo-pack-pro-version/
+BackWPup (v.3.8.0) 作者: Inpsyde GmbH
+	http://backwpup.com
+Breadcrumb NavXT (v.6.5.0) 作者: John Havlik
+	http://mtekk.us/code/breadcrumb-navxt/
+Contact Form 7 (v.5.3) 作者: Takayuki Miyoshi
+	https://contactform7.com/
+EWWW Image Optimizer (v.5.8.1) 作者: Exactly WWW
+	https://wordpress.org/plugins/ewww-image-optimizer/
+Hello Dolly (v.1.7.2) 作者: Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Show Current Template (v.0.3.4) 作者: JOTAKI Taisuke
+	https://wp.tekapo.com/
+Smart Custom Fields (v.4.1.5) 作者: inc2734
+	https://github.com/inc2734/smart-custom-fields/
+Smash Balloon Instagram Feed (v.2.5.4) 作者: Smash Balloon
+	https://smashballoon.com/instagram-feed
+TypeSquare Webfonts for エックスサーバー (v.1.2.1) 作者: XSERVER Inc.
+	https://ja.wordpress.org/plugins/xserver-typesquare-webfonts/
+WP-PageNavi (v.2.93.3) 作者: Lester 'GaMerZ' Chan
+	https://lesterchan.net/portfolio/programming/php/
+WP Mail SMTP (v.2.5.1) 作者: WPForms
+	https://wpmailsmtp.com/
+WP Multibyte Patch (v.2.9) 作者: Seisuke Kuraishi
+	https://eastcoder.com/code/wp-multibyte-patch/
+WPS Hide Login (v.1.5.7) 作者: WPServeur, NicolasKulka, wpformation
+	
+WP Super Cache (v.1.7.1) 作者: Automattic
+	https://wordpress.org/plugins/wp-super-cache/
+Yoast Duplicate Post (v.3.2.6) 作者: Enrico Battocchi & Team Yoast
+	https://yoast.com/wordpress/plugins/duplicate-post/
+
+有効なプラグイン:
+------------------------------
+All-in-One WP Migration
+All In One SEO Pack
+BackWPup
+Breadcrumb NavXT
+Contact Form 7
+EWWW Image Optimizer
+Show Current Template
+Smart Custom Fields
+Smash Balloon Instagram Feed
+WP-PageNavi
+WP Mail SMTP
+WP Multibyte Patch
+WPS Hide Login
+Yoast Duplicate Post
+
+停止中のプラグイン:
+------------------------------
+Akismet Anti-Spam
+Hello Dolly
+TypeSquare Webfonts for エックスサーバー
+WP Super Cache
